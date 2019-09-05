@@ -1,2 +1,5 @@
 # k8s-guest-book-deployment
-K8s deployment for testing purposes
+
+An udemy course final assignment task.
+
+https://www.udemy.com/course/learn-kubernetes/
